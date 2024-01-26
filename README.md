@@ -1,1 +1,1 @@
-
+I will be using machine learning for predicting mortality caused by Heart Failure, by training a model based on current clinical records consisting of the patients heart faliure causes and symptoms and also evaluating the accuracy of this model at the end.
